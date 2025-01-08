@@ -1,4 +1,4 @@
-## Hi everyone 👋
+## Hello everyone 👋
 
 My name is Zhengru Fang (方政儒). I am a PhD student from the [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong (CityU), under the supervision of [Prof. Yuguang "Michael" Fang](https://www.cs.cityu.edu.hk/~yugufang/). I received my M.S. degree from [Tsinghua University](https://www.ee.tsinghua.edu.cn/) (2019-2022) and B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) (2015-2019).
 
