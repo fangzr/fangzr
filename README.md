@@ -2,7 +2,7 @@
 
 My name is Zhengru Fang (方政儒). I am a PhD student from the [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong (CityU), under the supervision of [Prof. Yuguang "Michael" Fang](https://www.cs.cityu.edu.hk/~yugufang/). I received my M.S. degree from [Tsinghua University](https://www.ee.tsinghua.edu.cn/) (2019-2022) and B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) (2015-2019).
 
-My research interests focus on collaborative perception, V2X communications, age of information, and mobile edge computing. I have published several papers at top journals (e.g., IEEE/ACM ToN, IEEE JSAC, IEEE TMC) and conferences (e.g., IEEE Globecom, IEEE ICRA).
+My research interests focus on collaborative perception, V2X communications, age of information, and mobile edge computing. I have published several papers at top journals (e.g., IEEE/ACM ToN, IEEE JSAC, IEEE TMC) and conferences (e.g., ACM MM, IEEE ICRA).
 
 **Contact:** I'm always open to academic discussions and collaborations! Feel free to email me at zhefang4-c[AT]my[DOT]cityu[DOT]edu[DOT]hk
 
