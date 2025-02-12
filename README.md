@@ -23,7 +23,7 @@ My research interests focus on collaborative perception, V2X communications, age
 ### 💻 Selected Research Works
 
 #### 🚗 Collaborative Perception & Edge Computing
-- [R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications](https://www.researchgate.net/publication/384698682_Robust_Task-Oriented_Communication_Framework_for_Real-Time_Collaborative_Vision_Perception), *Submit to IEEE JSAC*, 2025
+- [R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications](https://www.researchgate.net/publication/384698682_Robust_Task-Oriented_Communication_Framework_for_Real-Time_Collaborative_Vision_Perception), **Submit to IEEE JSAC**, 2025
 - [PIB: Prioritized Information Bottleneck Framework for Edge Video Analytics](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework), **IEEE/ACM ToN**, 2025
 - [PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles](https://www.researchgate.net/publication/383297181_PACP_Priority-Aware_Collaborative_Perception_for_Connected_and_Autonomous_Vehicles), **IEEE TMC**, 2024
 
