@@ -2,13 +2,13 @@
 
 My name is Zhengru Fang (方政儒). I am a PhD student from the [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong (CityU), under the supervision of [Prof. Yuguang "Michael" Fang](https://www.cs.cityu.edu.hk/~yugufang/). I received my M.S. degree from [Tsinghua University](https://www.ee.tsinghua.edu.cn/) (2019-2022) and B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) (2015-2019).
 
-My research interests focus on collaborative perception, V2X communications, age of information, and mobile edge computing. I have published several papers at top journals (e.g., IEEE/ACM ToN, IEEE JSAC, IEEE TMC) and conferences (e.g., ACM MM, IEEE ICRA).
+My research interests focus on collaborative perception, V2X communications, age of information, and mobile edge computing. I have published several papers at top journals (e.g., IEEE/ACM ToN, IEEE JSAC, IEEE TMC) and conferences (e.g., ACM MM, IEEE ICRA) [![Google Scholar Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/fangzr/google-scholar-stats/main/badge-scholar-citations.json)](https://scholar.google.com/citations?hl=en&user=yggQMJMAAAAJ).
 
 **Contact:** I'm always open to academic discussions and collaborations! Feel free to email me at zhefang4-c[AT]my[DOT]cityu[DOT]edu[DOT]hk
 
 ### 📎 Homepages
 - Personal Website: [https://zhengrufang.com/](https://zhengrufang.com/)
-- Google Scholar: [https://scholar.google.com/citations?user=yggQMJMAAAAJ](https://scholar.google.com/citations?user=yggQMJMAAAAJ) [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/fangzr/google-scholar-stats/main/badge-citations.json&style=flat-square)](https://scholar.google.com/citations?hl=en&user=yggQMJMAAAAJ)
+- Google Scholar: [https://scholar.google.com/citations?user=yggQMJMAAAAJ](https://scholar.google.com/citations?user=yggQMJMAAAAJ) 
 - ResearchGate: [https://www.researchgate.net/profile/Zhengru-Fang](https://www.researchgate.net/profile/Zhengru-Fang)
 
 ### 🔥 News
