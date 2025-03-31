@@ -24,11 +24,12 @@ My research interests focus on collaborative perception, V2X communications, age
 
 #### 🚗 Collaborative Perception & Edge Computing
 - [R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications](https://www.researchgate.net/publication/384698682_Robust_Task-Oriented_Communication_Framework_for_Real-Time_Collaborative_Vision_Perception), **Submit to IEEE JSAC**, 2025
-- [PIB: Prioritized Information Bottleneck Framework for Edge Video Analytics](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework), **IEEE/ACM ToN**, 2025
+- [PIB: Prioritized Information Bottleneck Framework for Edge Video Analytics](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework), **IEEE/ACM ToN**, 2025[![](https://img.shields.io/github/stars/fangzr/PIB-Prioritized-Information-Bottleneck-Framework?style=social&label=Star)](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework/stargazers)
 - [PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles](https://www.researchgate.net/publication/383297181_PACP_Priority-Aware_Collaborative_Perception_for_Connected_and_Autonomous_Vehicles), **IEEE TMC**, 2024
 
 #### 📡 Age of Information & IoT
-- [Age of Information in Energy Harvesting Aided Massive Multiple Access Networks](https://ieeexplore.ieee.org/document/9681851/), **IEEE JSAC**, 2022
+- [Age of Information in Energy Harvesting Aided Massive Multiple Access Networks](https://ieeexplore.ieee.org/document/9681851/), **IEEE JSAC**, 2022[![](https://img.shields.io/github/stars/fangzr/AoI-NGMA?style=social&label=Star)](https://github.com/fangzr/AoI-NGMA/stargazers)
+- [Average Peak Age of Information in Underwater Information Collection With Sleep-Scheduling](https://www.researchgate.net/publication/360698689_Average_Peak_Age_of_Information_in_Underwater_Information_Collection_with_Sleep-scheduling), **IEEE TVT**, 2022
 - [Stochastic Optimization-Aided Energy-Efficient Information Collection in Internet of Underwater Things Networks](https://ieeexplore.ieee.org/document/9451536/), **IEEE IoTJ**, 2022
 - [AoI-Inspired Collaborative Information Collection for AUV-Assisted Internet of Underwater Things](https://ieeexplore.ieee.org/document/9312959), **IEEE IoTJ**, 2021
 
