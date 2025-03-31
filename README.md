@@ -2,7 +2,7 @@
 
 My name is Zhengru Fang (方政儒). I am a PhD student from the [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong (CityU), under the supervision of [Prof. Yuguang "Michael" Fang](https://www.cs.cityu.edu.hk/~yugufang/). I received my M.S. degree from [Tsinghua University](https://www.ee.tsinghua.edu.cn/) (2019-2022) and B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) (2015-2019).
 
-My research interests focus on collaborative perception, V2X communications, age of information, and mobile edge computing. I have published several papers at top journals (e.g., IEEE/ACM ToN, IEEE JSAC, IEEE TMC) and conferences (e.g., ACM MM, IEEE ICRA) <a href='https://scholar.google.com/citations?user=yggQMJMAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffangzr%2Fgoogle-scholar-stats%2Fmain%2Fgs_data_shieldsio.json&logo=googlescholar&logoColor=blue&labelColor=f6f6f6&color=9cf&style=flat"></a>.
+My research interests focus on collaborative perception, V2X communications, age of information, and mobile edge computing. I have published several papers at top journals (e.g., IEEE/ACM ToN, IEEE JSAC, IEEE TMC) and conferences (e.g., ACM MM, IEEE ICRA) <a href='https://scholar.google.com/citations?user=yggQMJMAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffangzr%2Fgoogle-scholar-stats%2Fmain%2Fgs_data_shieldsio.json&logo=googlescholar&labelColor=f6f6f6&color=9cf&style=flat"></a>.
 
 **Contact:** I'm always open to academic discussions and collaborations! Feel free to email me at zhefang4-c[AT]my[DOT]cityu[DOT]edu[DOT]hk
 
