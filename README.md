@@ -8,7 +8,7 @@ My research interests focus on collaborative perception, V2X communications, age
 
 ### 📎 Homepages
 - Personal Website: [https://zhengrufang.com/](https://zhengrufang.com/)
-- Google Scholar: [https://scholar.google.com/citations?user=yggQMJMAAAAJ](https://scholar.google.com/citations?user=yggQMJMAAAAJ)
+- Google Scholar: [https://scholar.google.com/citations?user=yggQMJMAAAAJ](https://scholar.google.com/citations?user=yggQMJMAAAAJ) [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/fangzr/google-scholar-stats/main/badge-citations.json)](https://scholar.google.com/citations?hl=en&user=yggQMJMAAAAJ)
 - ResearchGate: [https://www.researchgate.net/profile/Zhengru-Fang](https://www.researchgate.net/profile/Zhengru-Fang)
 
 ### 🔥 News
