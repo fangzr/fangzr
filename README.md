@@ -12,7 +12,7 @@ My research interests focus on collaborative perception, V2X communications, age
 - ResearchGate: [https://www.researchgate.net/profile/Zhengru-Fang](https://www.researchgate.net/profile/Zhengru-Fang)
 
 ### 🔥 News
-- *Notice*: The latest news will be posted on my [https://zhengrufang.com/](personal page) promptly.
+- *Notice*: The latest news will be posted on my [personal page](https://zhengrufang.com/) promptly.
 - *2024.12*: Our work on edge video analytics was accepted by *IEEE/ACM ToN*! [![](https://img.shields.io/github/stars/fangzr/PIB-Prioritized-Information-Bottleneck-Framework?style=social&label=Star)](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework/)
 - *2024.10*: Submitted our work on real-time collaborative perception to *IEEE JSAC* [![](https://img.shields.io/github/stars/fangzr/R-ACP?style=social&label=Star)](https://github.com/fangzr/R-ACP/)
 - *2024.08*: Three papers accepted! One in *IEEE TMC* and two in *IEEE Globecom*
